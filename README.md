@@ -20,7 +20,7 @@ This PC shows the OS drive but not the other drives on the computer. <br/>
 <img width="1310" height="762" alt="image" src="https://github.com/user-attachments/assets/6d0c3ebe-ecd8-443b-a4e5-fac3b066c484" />
 <br />
 <br />
-Open Command, Type "DiskPart" and hit enter<br/>
+Open Command, Type -DiskPart- and hit enter<br/>
 <img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/0f0ab992-08a7-43fe-a7f1-24ffa09abb40" />
 <br />
 <br />
@@ -32,7 +32,7 @@ Select the disk with "select disk _"<br/>
 <img width="981" height="531" alt="image" src="https://github.com/user-attachments/assets/e3a92617-2300-4f12-bb05-73a8950c0448" />
 <br />
 <br />
-type "clean" to make sure nothing is on it anymore <br/>
+Type "clean" to make sure nothing is on it anymore <br/>
 <img width="986" height="522" alt="image" src="https://github.com/user-attachments/assets/5041db45-3a37-4aeb-b123-741d839aab23" />
 <br />
 <br />
