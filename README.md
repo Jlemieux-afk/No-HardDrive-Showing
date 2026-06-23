@@ -32,16 +32,23 @@ Select the disk with "select disk _"<br/>
 <img width="981" height="531" alt="image" src="https://github.com/user-attachments/assets/e3a92617-2300-4f12-bb05-73a8950c0448" />
 <br />
 <br />
-type "clean <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+type "clean" to make sure nothing is on it anymore <br/>
+<img width="986" height="522" alt="image" src="https://github.com/user-attachments/assets/5041db45-3a37-4aeb-b123-741d839aab23" />
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next type "create partition primary" this will get the drive ready to be formated<br/>
+<img width="975" height="313" alt="image" src="https://github.com/user-attachments/assets/047e242c-47f7-42a2-9a93-2f8973ec27af" />
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now type "format fs=ntfs quick" so the computer can use it. NTFS is the default file system for Windows. (if there are errors using this method, run it again with "format fs-ntfs" this method scans the drive for errors but takes very long. In our case it formated just fine <br/>
+<img width="747" height="244" alt="image" src="https://github.com/user-attachments/assets/32cd1c1c-29ce-462e-9ca3-13bef77f5dae" />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+ 
 </p>
 
 <!--
