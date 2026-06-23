@@ -40,7 +40,7 @@ Next type "create partition primary" this will get the drive ready to be formate
 <img width="975" height="313" alt="image" src="https://github.com/user-attachments/assets/047e242c-47f7-42a2-9a93-2f8973ec27af" />
 <br />
 <br />
-Now type "format fs=ntfs quick" so the computer can use it. NTFS is the default file system for Windows. (if there are errors using this method, run it again with "format fs-ntfs" this method scans the drive for errors but takes very long. In our case it formated just fine <br/>
+Now type "format fs=ntfs quick" so the computer can use it. NTFS is the default file system for Windows. (if there are errors using this method, run it again with "format fs-ntfs" this method (without "quick" at the end) scans the drive for errors but takes very long. In our case it formated just fine <br/>
 <img width="747" height="244" alt="image" src="https://github.com/user-attachments/assets/32cd1c1c-29ce-462e-9ca3-13bef77f5dae" />
 <br />
 <br />
