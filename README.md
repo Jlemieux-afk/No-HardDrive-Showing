@@ -16,12 +16,12 @@ Project consists of a simple command prompt process to find what disks are recog
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+This PC shows the OS drive but not the other drives on the computer. <br/>
+<img width="1310" height="762" alt="image" src="https://github.com/user-attachments/assets/6d0c3ebe-ecd8-443b-a4e5-fac3b066c484" />
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open Command, Type DiskPart<br/>
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/0f0ab992-08a7-43fe-a7f1-24ffa09abb40" />
 <br />
 <br />
 Enter the number of passes: <br/>
