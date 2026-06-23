@@ -20,7 +20,7 @@ This PC shows the OS drive but not the other drives on the computer. <br/>
 <img width="1310" height="762" alt="image" src="https://github.com/user-attachments/assets/6d0c3ebe-ecd8-443b-a4e5-fac3b066c484" />
 <br />
 <br />
-Open Command, Type -DiskPart- and hit enter<br/>
+Open Command, Type "DiskPart" and hit enter<br/>
 <img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/0f0ab992-08a7-43fe-a7f1-24ffa09abb40" />
 <br />
 <br />
