@@ -1,7 +1,7 @@
 <h1>New HDD/SSD not showing in Windows10/11</h1>
 
 <h2>Description</h2>
-Project consists of a simple command prompt process to find what disks are recognized by the computer, Cleaning the one you just installed, formatting it for the computer to read, and assigning a letter to the drive for Windows to deisplay it.
+Project consists of a simple command prompt process to find what disks are recognized by the computer, which are showing and not showing in File Explorer, cleaning the one you just installed, formatting it for the computer to read, and assigning a letter to the drive for Windows to deisplay it in File Explorer.
 
 
 <h2>Languages and Utilities Used</h2>
@@ -49,7 +49,7 @@ Now type "format fs=ntfs quick" so the computer can use it. NTFS is the default 
 <br />
 <br />
 
-With the last command sucessful, we can see it assigned the letter E to the new drive preformed.
+With the last command sucessful, we can see it assigned the letter "E" to the new drive, and is now shown in File Explorer under "This PC".
 <br />
 <br />
  
