@@ -44,8 +44,12 @@ Now type "format fs=ntfs quick" so the computer can use it. NTFS is the default 
 <img width="747" height="244" alt="image" src="https://github.com/user-attachments/assets/32cd1c1c-29ce-462e-9ca3-13bef77f5dae" />
 <br />
 <br />
+ Last we type "assign" and this will give the drive a letter to be displayed in File Explorer.<br/>
+ <img width="1362" height="968" alt="image" src="https://github.com/user-attachments/assets/b8fd68d6-bbfa-458c-a7ed-38c16edc5fb6" />
 <br />
 <br />
+
+With the last command sucessful, we can see it assigned the letter E to the new drive preformed.
 <br />
 <br />
  
